@@ -5,7 +5,7 @@
 <!-- Database: Verowanum.db -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2021-12-25T20:57:44">
+<lexiqueProConfig version="3.6" dateModified="2022-01-15T14:13:27">
 
  <encoding type="UTF-8"/>
 
@@ -17,6 +17,9 @@
    <displayNames>
     <form lang="en">Verowanum</form>
    </displayNames>
+
+   <abbrev>
+   </abbrev>
 
    <sortOrder type="simple">
    </sortOrder>

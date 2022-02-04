@@ -5,7 +5,7 @@
 <!-- Database: Verowanum.db -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2022-01-15T14:13:27">
+<lexiqueProConfig version="3.6" dateModified="2022-01-24T10:04:48">
 
  <encoding type="UTF-8"/>
 
@@ -38,7 +38,7 @@
    <alphaSelect selectby="lx"/>
 
    <inputButtons display="true" width="25" height="25">
-    <inputButtonsAlphabet>ħ Ħ đ Đ ƀ Ƀ ċ Ċ ṡ Ṡ ţ Ţ</inputButtonsAlphabet>
+    <inputButtonsAlphabet></inputButtonsAlphabet>
    </inputButtons>
 
    <textDirection dir="LTR"/>
